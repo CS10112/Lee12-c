@@ -27,7 +27,7 @@ void myTime::printTime(){
 int square(int no){return no*no;}
 double square(double no){return no*no;}
 
-int main()
+main()
 {
 	myTime open, close;
 	int h,m;
